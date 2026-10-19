@@ -10,3 +10,7 @@ Add your own levels as a text file.
 
 **New _patterns_**:
 Adapter, Iterator, Builder, Prototype(model/gameoOjects/GameInfo)
+
+
+## Game
+![Screenshot_2026-10-19_155237.jpg](Screenshot_2026-10-19_155237.jpg)
